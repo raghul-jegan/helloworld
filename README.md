@@ -2,5 +2,5 @@
 
 hello,
 
-This is a test repository. Edited
+This is a test repository. 
 
